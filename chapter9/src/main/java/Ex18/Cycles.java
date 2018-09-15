@@ -51,8 +51,6 @@ class TricycleFactory implements CycleFactory{
 
 
 
-
-
 public class Cycles{
     public static void rideCycle(CycleFactory factory){
         Cycle c = factory.getCycle();
